@@ -20,7 +20,7 @@ A API oferece os seguintes endpoints para manipulação de livros:
 ## 📦 Estrutura do Projeto
 
 ```
-flask_api/
+BookShelf_API/
 │
 ├── app.py          # Arquivo principal da API com Flask
 ├── README.md       # Documentação do projeto
