@@ -142,5 +142,5 @@ Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
 ## ✍️ Autor
 
 **Edcarlos Cruz**  
-Desenvolvedor Python & Entusiasta de APIs  
+Desenvolvedor Python/Java & Entusiasta de APIs  
 [LinkedIn](https://www.linkedin.com/in/edcarloscruz/) | [GitHub](https://github.com/EddieNine)
