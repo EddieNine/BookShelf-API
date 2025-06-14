@@ -50,8 +50,8 @@ pip install flask
 Clone o repositório e execute o arquivo `app.py`:
 
 ```bash
-git clone https://github.com/seu-usuario/flask_api.git
-cd flask_api
+git clone git@github.com:EddieNine/BookShelf-API.git
+cd BookShelf_API
 python app.py
 ```
 
